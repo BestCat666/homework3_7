@@ -9,7 +9,7 @@ int rows = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите количество столбцов: ");
 int colums= int.Parse(Console.ReadLine());
 
-double[,]array = GetArray(rows,colums, -10,10);
+double[,]array = GetArray(rows,colums, -100,100);
 PrintArray(array);
 double[,] GetArray(int m,int n, int minValue,int maxValue)
 {
@@ -18,7 +18,7 @@ double[,] GetArray(int m,int n, int minValue,int maxValue)
     {
         for (int j = 0; j < n; j++)
         {
-            result[i,j] = new Random().Next(minValue,maxValue + 1) / 10.0;
+            result[i,j] = new Random().Next(minValue,maxValue + 1) / 10.0; 
         }
     }
     return result;
