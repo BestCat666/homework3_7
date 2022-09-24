@@ -1,0 +1,15 @@
+C:\Users\BestCat\Desktop\homework3_7\ex_2\obj\Debug\net6.0\ex_2.csproj.AssemblyReference.cache
+C:\Users\BestCat\Desktop\homework3_7\ex_2\obj\Debug\net6.0\ex_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BestCat\Desktop\homework3_7\ex_2\obj\Debug\net6.0\ex_2.AssemblyInfoInputs.cache
+C:\Users\BestCat\Desktop\homework3_7\ex_2\obj\Debug\net6.0\ex_2.AssemblyInfo.cs
+C:\Users\BestCat\Desktop\homework3_7\ex_2\obj\Debug\net6.0\ex_2.csproj.CoreCompileInputs.cache
+C:\Users\BestCat\Desktop\homework3_7\ex_2\bin\Debug\net6.0\ex_2.exe
+C:\Users\BestCat\Desktop\homework3_7\ex_2\bin\Debug\net6.0\ex_2.deps.json
+C:\Users\BestCat\Desktop\homework3_7\ex_2\bin\Debug\net6.0\ex_2.runtimeconfig.json
+C:\Users\BestCat\Desktop\homework3_7\ex_2\bin\Debug\net6.0\ex_2.dll
+C:\Users\BestCat\Desktop\homework3_7\ex_2\bin\Debug\net6.0\ex_2.pdb
+C:\Users\BestCat\Desktop\homework3_7\ex_2\obj\Debug\net6.0\ex_2.dll
+C:\Users\BestCat\Desktop\homework3_7\ex_2\obj\Debug\net6.0\refint\ex_2.dll
+C:\Users\BestCat\Desktop\homework3_7\ex_2\obj\Debug\net6.0\ex_2.pdb
+C:\Users\BestCat\Desktop\homework3_7\ex_2\obj\Debug\net6.0\ex_2.genruntimeconfig.cache
+C:\Users\BestCat\Desktop\homework3_7\ex_2\obj\Debug\net6.0\ref\ex_2.dll
