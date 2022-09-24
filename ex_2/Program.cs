@@ -50,6 +50,10 @@ void NumPosition(int[,] Array3)
             {
             Console.Write($"Число с такой позицией есть в массиве[{i},{j}] --> {Array3[i,j]}");
             }
+            else
+            {
+            Console.Write($"Числа с такой позицией нет в массиве[{i},{j}]");
+            }
             }
         }
     }
